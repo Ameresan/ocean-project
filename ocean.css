@@ -1,0 +1,43 @@
+.main{
+    /* background-color:antiquewhite; */
+}
+/* .imagst{
+    margin: 10px;
+} */
+p{
+    text-align: left;
+}
+.mainfunction{
+    height: 500px;
+    border:2px solid black;
+    background-image: url(./back1.jpg);
+    
+}
+.name{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     color:indianred;
+}
+.name2{
+    
+}
+.navbar-expand-lg{
+    background-color:gray;
+    
+}
+/* .nav-item{
+    color: blue;
+} */
+.main11{
+    background-color:blanchedalmond;
+}
+.last2
+{
+    padding-right: 10px;
+}
+.last3{
+    margin-top: 20px;
+
+}
